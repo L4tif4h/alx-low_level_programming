@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
- * main - determines wether the last digit is > 5, < 6, or is 0
- *
+/**
+ * main - Entry point of the program
+ * description:  determines wether the last digit is > 5, < 6, or is 0
  * Return: 0 (success)
  */
 int main(void)
