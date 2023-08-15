@@ -1,8 +1,10 @@
 #include "main.h"
 /**
- * main - peint _putchar
- * return : 0 (success)
+ * main - entry point of code
+ * Description : print _putchar
+ * Return: 0
  */
+
 int main(void)
 {
 _putchar('_');
@@ -16,4 +18,5 @@ _putchar('r');
 _putchar('\n');
 return (0);
 }
+
 
