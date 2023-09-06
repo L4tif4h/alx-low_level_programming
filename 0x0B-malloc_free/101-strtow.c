@@ -2,9 +2,8 @@
 #include <stdlib.h>
 
 /**
- * word_count - Counts the number of words in a string.
- * @str: The input string.
- *
+ *count_word - Counts the number of words in a string.
+ *@s: string to evaluate
  * Return: The number of words in the string.
  */
 int count_word(char *s)
